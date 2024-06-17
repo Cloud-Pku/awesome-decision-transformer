@@ -1,9 +1,5 @@
 # Awesome Decision Transformer
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
-![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer&left_text=Visitors) 
-![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow) 
-![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf) 
-[![GitHub license](https://img.shields.io/github/license/opendilab/awesome-decision-transformer)](https://github.com/opendilab/awesome-decision-transformer/blob/main/LICENSE)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=opendilab.awesome-decision-transformer&left_text=Visitors)  ![GitHub stars](https://img.shields.io/github/stars/opendilab/awesome-decision-transformer?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/opendilab/awesome-decision-transformer?color=9cf)  [![GitHub license](https://img.shields.io/github/license/opendilab/awesome-decision-transformer)](https://github.com/opendilab/awesome-decision-transformer/blob/main/LICENSE)
 
 
 
@@ -14,22 +10,25 @@ Welcome to follow and star!
 
 ## Table of Contents
 
-- [A Taxonomy of DT Algorithms](#a-taxonomy-of-decision-transformer-algorithms)
-- [Papers](#papers)
-
-  - [Arxiv](#arxiv)
-  - [ICLR 2024](#iclr-2024) (**<font color="red">New!!!</font>**)
-  - [NeurIPS 2023](#neurips-2023)
-  - [CoRL 2023](#corl-2023)
-  - [ICLR 2023](#iclr-2023)
-  - [NeurIPS 2022](#neurips-2022)
-  - [CoRL 2022](#corl-2022)
-  - [ICML 2022](#icml-2022)
-  - [AAAI 2022](#aaai-2022)
-  - [ICLR 2022](#iclr-2022)
-  - [NeurIPS 2021](#neurips-2021)
-  - [ICML 2021](#icml-2021)
-- [Contributing](#contributing)
+- [Awesome Decision Transformer](#awesome-decision-transformer)
+  - [Table of Contents](#table-of-contents)
+  - [Overview of Transformer](#overview-of-transformer)
+    - [Advantage](#advantage)
+  - [Papers](#papers)
+    - [Arxiv](#arxiv)
+    - [ICLR 2024](#iclr-2024)
+    - [NeurIPS 2023](#neurips-2023)
+    - [CoRL 2023](#corl-2023)
+    - [ICLR 2023](#iclr-2023)
+    - [NeurIPS 2022](#neurips-2022)
+    - [CoRL 2022](#corl-2022)
+    - [ICML 2022](#icml-2022)
+    - [AAAI 2022](#aaai-2022)
+    - [ICLR 2022](#iclr-2022)
+    - [NeurIPS 2021](#neurips-2021)
+    - [ICML 2021](#icml-2021)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Overview of Transformer
 
